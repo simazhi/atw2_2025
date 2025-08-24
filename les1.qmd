@@ -1,0 +1,748 @@
+---
+title: Algemene taalkunde I
+subtitle: Inleiding
+format: 
+  kulqlvl-revealjs:
+    # self-contained: true
+    # chalkboard: true
+    slide-number: true
+    code-line-numbers: true
+    embed-resources: true
+    # multiplex: true
+# html-math-method:
+#   method: mathjax
+#   url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Dr. Thomas Van Hoey
+    orcid: 0000-0002-5226-9752
+    email: thomas.vanhoey@kuleuven.be
+    affiliation:
+      - name: QLVL @ KU Leuven
+        # url: www.ed.ac.uk
+date: "26 September 2024"
+logo: inputfiles/kul.png
+# bibliography: refs.bib
+# code-link: true
+# code-copy: true
+highlight-style: "github" # pygments, github
+# footer: Go to [osf.io/598fk](https://osf.io/598fk) for materials
+---
+
+# Praktisch
+
+## Doelstellingen
+
+Inleiding in de basisconcepten en -methoden van de algemene taalkunde
+
+Focus op vier kernonderdelen
+
+1. fonetiek
+2. fonologie
+3. morfologie
+4. syntaxis
+
+Aanleren en inoefenen van de belangrijkste analysemethoden voor deze domeinen. 
+
+
+\+ Eerste kennismaking met de andere deelgebieden van de taalkunde, op basis van een handboek. 
+
+## Kennismaking
+
+:::: {.columns}
+
+::: {.column}
+
+* Nederlands
+* Frans
+* Engels
+* Spaans
+* Italiaans
+* Duits
+* Grieks
+* Latijn
+* Hebreeuws
+* Japans
+* Chinees
+* Filosofie
+* Andere?
+
+:::
+
+::: {.column .fragment}
+
+### Korte vraag
+
+Wie volgt dit vak voor de eerste keer?
+
+:::
+
+::::
+
+
+
+
+## Plaats in de opleiding
+
+Basiskennis om aan taalanalyse te doen
+
+* agnostisch m.b.t. een bepaalde taal
+* alle kennis versterkt elkaar
+  * taalspecifieke taalkundevakken
+  * literatuur
+  * lesgeven
+  * communicatie in bedrijven
+  * journalistiek
+  * vertalen en tolken
+  * ...
+
+## Docent
+
+:::: {.columns}
+
+::: {.column width="5%"}
+{{< fa person-chalkboard >}} 
+
+{{< fa book-open >}}
+
+{{< fa building >}}
+
+{{< fa envelope >}}
+:::
+
+::: {.column width="95%"}
+Dr. Thomas Van Hoey
+
+Taalkunde, KU Leuven 
+
+Blijde-Inkomststraat 21, 3000 Leuven
+
+thomas.vanhoey@kuleuven.be 
+:::
+
+::::
+
+
+## Uurrooster college
+
+* donderdag, 9-11 u
+* AP 01.30 (Jean Monnet) 
+
+[Het is sterk aangeraden de colleges bij te wonen]{.alert2}  
+maar lesopnames worden gemaakt en blijven beschikbaar tot twee weken na het college
+
+Dit wil zeggen dat na twee weken ze voor altijd verdwijnen en ook [niet]{.alert2} terugkomen in de zomer.
+
+## Vragen stellen
+
+
+[1. Voor of na de colleges]{.alert2}
+
+Spreek me gerust aan over recent geziene leerstof
+
+::: {.fragment}
+
+[2. Gebruik het vragenformulier op Toledo]{.alert2} 
+
+Zeker met betrekking tot vragen over het handboek
+
+[Link naar het vragenformulier](https://forms.office.com/e/2CC78dxPhR){target="_blank"}
+
+:::
+
+::: {.fragment}
+
+[3. Spreekuur]{.alert2}
+
+* op afspraak (meestal vrijdagvoormiddag)
+* lokaal LETT 02.32
+
+:::
+
+
+### 
+
+
+### 
+
+
+
+
+## E-mail etiquette
+
+Tips voor goede communicatie aan de universiteit
+
+[Geef een duidelijk onderwerp op]{.alert2}
+
+* "ATW1 vraag over morfologie"
+
+. . .
+
+[Schrijf gericht aan en met correcte aanspreking]{.alert2}
+
+* "*Beste professor Van Hoey*" / "*Beste Dr. Van Hoey*"
+* [niet]{.alert} "*~~Yo Thomas~~*" / "*hejkes*"
+* [niet]{.alert}"*beste,*"
+
+. . .
+
+[Identificeer jezelf duidelijk]{.alert2}
+
+* "Ik ben Jan Peeters en volg het vak ATW1"
+
+## E-mail etiquette
+
+
+[Wees bondig maar geef genoeg informatie]{.alert2}
+
+* Draai niet rond de pot maar kom meteen ter zake
+
+. . .
+
+[Redenen om [niet]{.alert} te sturen]{.alert2}
+
+* de informatie is gemakkelijk vindbaar
+* je kan niet komen naar de les (ik moet het niet weten)
+* ...
+
+. . .
+
+[Redenen om [wel]{.alert} te sturen]{.alert2}
+
+* er ontbreekt een document op toledo dat er wel zou moeten staan
+* je wil langskomen op spreekuur
+* ...
+
+
+## E-mail etiquette
+
+[Wees geduldig]{.alert2}
+
+* Mails gestuurd op vrijdagavond met een follow-up op maandagochtend om 8:43 die als volgt klinkt kunnen wellicht lang wachten op een antwoord.
+
+```
+Beste,
+
+Zoals ik vorige week vrijdag [noot: om 17:45] al zei is mijn leguaan Khaleesi aan het vervellen. Ik wil een hele week kijken naar dit proces. Ik zal dus niet naar de les kunnen komen maar heb wel vragen over wat we deze week zullen zien. Ik heb nog niets gelezen van het handboek maar hopelijk kan je mij alles vertellen. Ik kan maandag van 18-19 uur en zondag om 20-22 uur. 
+
+Hopelijk hoor ik nu wel snel iets van u want ik heb al drie hele dagen niks gehoord!!!
+
+xoxo
+
+Daenarys Vanden Bossche
+```
+
+##	Materiaal 
+
+[Handboek]{.alert2}
+
+:::: {.columns}
+
+::: {.column}
+
+McGregor, William B. 2024. Linguistics: An introduction. 3rd  edition. London: Continuum. 
+
+Te koop onder andere bij
+
+* Acco
+* Babylon
+* Peeters
+* online
+
+:::
+
+::: {.column width="40%"}
+
+![](inputfiles/mcgregor3.jpg){}
+
+:::
+
+::::
+
+## Materiaal
+
+[Verwerking leerstof]{.alert2}
+
+:::: {.columns}
+
+::: {.column}
+
+Hoofdstukken 1-3 & 5
+
+<br>
+<br>
+Hoofdstukken 7-17
+
+<br>
+~~Hoofdstukken 4 & 6~~
+:::
+
+::: {.column}
+
+Theorie & oefeningen bij deze hoofdstukken worden in de les behandeld.
+
+Zelfstandig te verwerken lectuur. 
+
+Deze thema's komen aan bod in ATW II.
+:::
+
+::::
+
+## Materiaal
+
+[Lesplanning]{.alert2}
+
+13 weken college   
+= ongeveer 2,5 weken per thema
+
+* fonetiek
+* fonologie
+* morfologie
+* syntaxis
+
+Er zijn ook twee momenten voorzien waarin vragen over het handboek worden beantwoord.
+
+Daarnaast zijn er ook een aantal monitoraatssessies.
+
+## Studieplanning (zelfstudie)
+
+::: {.font90}
+
+Datum |	Te verwerken hoofdstuk 
+------| --------------
+26 september |	/
+03 oktober	 | Chapter 7: Sociolinguistics: language in its social context
+10 oktober	 | Chapter 8: Text and discourse
+17 oktober	 | Chapter 9: Investigating language in use: corpus linguistics
+24 oktober	 | Chapter 10: Language in its biological context
+31 oktober	 | Chapter 11: Psycholinguistics: Language, the mind and the brain
+07 november	 | Chapter 12: Language learning
+|             | Mogelijkheid tot stellen van vragen over hoofdstukken 7-11
+14 november	 | Chapter 13: Sign languages
+21 november	 | Chapter 14: Writing
+28 november	 | Chapter 15: Unity and diversity in language structure
+05 december	 | Chapter 16: Language change
+12 december	 | Chapter 17: Languages of the world
+ 19 december	| Mogelijkheid tot stellen van vragen over hoofdstukken 12-16
+
+:::
+
+
+## Materiaal
+
+[Notities]{.alert2}
+
+Deze zijn DIY: je maakt ze zelf. Sterke aanrader om handmatig notities te nemen en de belangrijkste ideeën uit de colleges structureel te filtreren.  
+Het heeft geen zin om alles letterlijk over te schrijven in volzinnen.
+
+
+[Handouts]{.alert2}
+
+Per college worden handouts voorzien met een samenvatting van de belangrijkste begrippen, eventuele aanvullingen bij het handboek, en oefeningen. 
+
+Deze worden in principe pas na de les beschikbaar gesteld.
+
+
+
+
+## Materiaal
+
+
+[Elektronisch materiaal]{.alert2}
+
+Software voor het inoefenen van articulatorische fonetiek (Toledo)
+
+
+[Oefeningen]{.alert2}
+
+De oefeningen worden beschikbaar gesteld op Toledo.
+
+Om maximaal te kunnen volgen in de les [moet je zelf de oefeningen op voorhand afdrukken.]{.alert} 
+Gewoon meevolgen op je gsm/tablet/computer doet je slaagkansen voor het examen dalen.
+
+## Examenvorm
+
+Schriftelijk examen. 
+
+Het examen bestaat uit vier vragen:
+
+:::: {.columns}
+
+::: {.column  width="15%"}
+
+[*kunnen*]{.alert2}
+
+<br>
+[*kennen*]{.alert2}
+
+:::
+
+::: {.column  width="85%"}
+
+oefeningen oplossen met betrekking tot fonetiek, fonologie, morfologie, syntaxis
+
+theorievraag (zelfstudie)
+
+:::
+
+::::
+
+
+
+## ChatGPT en LLMs
+
+Niet helemaal relevant voor dit vak maar weet dat
+
+* het beleid van de KU Leuven gebruik van LLMs toestaat tenzij anders aangegeven,
+* [mits]{.alert2} je het gebruik ervan aangeeft.
+
+Maar weet ook dat [LLMs je niet zullen helpen om de basisconcepten voor dit vak zelf te verwerken.]{.alert}  
+
+
+
+## Discrepanties
+
+[ECTS-fiche]{.alert2}
+
+Check altijd goed de ECTS-fiche
+
+[link naar ECTS-fiche voor dit vak](https://onderwijsaanbod.kuleuven.be/syllabi/n/F0AA3AN.htm){target="_blank"}
+
+[Discrepanties]{.alert2}
+
+Indien er discrepanties zijn tussen wat in de les gezegd wordt en wat er op Toledo staat, spreken we af dat de meest recente communicatie op Toledo geldt.
+
+
+
+## Nalezen
+
+Deze informatie is ook beschikbaar op Toledo in twee documenten
+
+1. praktisch.pdf
+2. zelfstudie.pdf
+
+# Pauze
+
+# Tijd voor taalkunde
+
+
+## Taalkunde / taalwetenschap / linguïstiek
+
+1. Wat is taalkunde?
+2. Wat is taal?
+3. Op welke manier bestudeert taalkunde de taal?
+
+## Wat is taalkunde?
+
+Taalkunde = wetenschappelijke  studie van menselijke  taal
+
+
+→ methode: wetenschappelijk
+
+→ object: menselijke taal 
+
+
+## Wat is taalkunde?
+
+Taalkunde = wetenschappelijke  studie van menselijke  taal
+
+→ methode: wetenschappelijk 
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+::: {.fragment fragment-index=1}
+* empirisch: descriptief vs. prescriptief
+* stimulus-respons (Leonard Bloomfield) vs. mentalistisch (Noam Chomsky)
+
+:::
+::: {.fragment fragment-index=2}
+* modelvorming: observeren, veralgemenen en verklaren
+
+:::
+::: {.fragment fragment-index=3}
+* methoden: taalkunde & andere disciplines
+
+:::
+:::
+
+::: {.column width="40%"}
+
+::: {.fragment fragment-index=4 .fade-up}
+![](inputfiles/cogsci.png)
+
+:::
+
+:::
+
+::::
+
+
+
+
+
+
+## Wat is taalkunde?
+
+Taalkunde = wetenschappelijke  studie van menselijke  taal
+
+→ object: menselijke taal 
+
+::: {.fragment fragment-index=1}
+* aard: taal vs. talen
+
+:::
+::: {.fragment fragment-index=2}
+* ongeveer 7000 talen (zie [https://glottolog.org/](https://glottolog.org/){target="_blank"}
+
+:::
+::: {.fragment fragment-index=3}
+* kenmerken 1 taal / taalfamilie niet noodzakelijk universeel
+
+:::
+::: {.fragment fragment-index=4}
+* modaliteit : geschreven vs gesproken / gebaard
+
+:::
+::: {.fragment fragment-index=5}
+* gesproken / gebaard : primair
+
+:::
+::: {.fragment fragment-index=6}
+* geschreven : secundair (tenzij het niet  anders  kan, bv.   historische  taalkunde)
+
+:::
+
+
+
+
+## Wat is taal?
+
+Taal = complex adaptief systeem van tekens
+
+→ systeem: fenomeen van de "derde soort"
+
+→ tekens: koppeling van vorm en betekenis
+
+→ complex adaptief: dynamisch
+
+## Wat is taal?
+
+Taal = complex adaptief systeem van tekens
+
+→ systeem: fenomeen van de "derde soort" (Rudi Keller)
+
+
+::: {.fragment fragment-index=1}
+* soort 1: natuurlijke  objecten (bv  graniet )
+
+:::
+::: {.fragment fragment-index=2}
+* soort 2: intentioneel  gecreëerde  objecten ( bv  gedicht)
+
+:::
+::: {.fragment fragment-index=3}
+* soort 3: niet-intentionele  resultaten van gecumuleerde  intentionele  acties ( bv file, economie, olifantenpaadjes, taal)
+
+::: 
+  
+## Wat is taal?
+  
+Taal = complex adaptief systeem van tekens
+
+→ tekens: koppeling van vorm en betekenis (semiotiek)
+
+::: {.fragment fragment-index=1}
+* vorm: iets waarneembaars
+
+:::
+::: {.fragment fragment-index=2}
+* betekenis: concept
+
+:::
+::: {.fragment fragment-index=3}
+* de link tussen vorm en betekenis is essentieel (twee kanten van dezelfde munt)
+
+:::
+
+## Wat is taal? *signifié, signifiant, arbitrariness*
+
+
+![Famous diagram by structuralist Ferdinand de Saussure (1916)](inputfiles/saussuretree.jpg) 
+
+
+##	Wat is taal?
+
+Taal = complex adaptief systeem van tekens
+
+→ tekens: discipline van de semiotiek
+
+Drie types tekens: aard  relatie  vorm & betekenis (Charles Peirce)
+
+1. arbitrair: symbolisch
+2. contiguïteit: indexicaal
+3. gelijkenis: iconisch
+ 
+##	Wat is taal?
+
+symbool, index, icoon
+
+::: {.fragment fragment-index=1}
+Merk op: alle drie betekenisrelaties kunnen aanwezig zijn in een uiting.
+
+*Salem [meowed]{.alert} his way through the crowd.*
+
+:::
+
+::: {.fragment fragment-index=1}
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZ0ZnJraWVocmQxNjE0czM0Y3N4b3A2NGJqdHFzemd3bXJpemlpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M7EQSsEXkGRvq/giphy.gif)
+
+:::
+
+
+
+## Wat is taal?
+
+Taal = complex adaptief systeem van tekens
+
+→ complex adaptief
+
+![Cognitieve sociolinguïstiek zoals bedreven door Dirk Geeraerts (2010)](inputfiles/sociodiagram.png)
+
+
+
+
+## Wat is menselijke taal?
+
+[Menselijke taal]{.alert2} tuusen [alle tekensystemen]{.alert}?
+
+[1. de mens]{.alert2} versus andere diersoorten
+
+:::: {.columns}
+
+::: {.column}
+Bijendans
+
+{{< video https://www.youtube.com/watch?v=-7ijI-g4jHg  >}}
+
+
+:::
+
+::: {.column}
+Stekelbaars
+
+{{< video https://youtu.be/5m_UgQlx1mU?si=4Dhr-KpYKOUFYD28 >}}
+
+:::
+
+::::
+
+
+
+## Wat is de architectuur van menselijke taal?
+
+![Design features van Charles Hockett (1960)](inputfiles/hockett1.png)
+
+
+
+## Wat is de architectuur van menselijke taal?
+
+![Design features van Charles Hockett (1960)](inputfiles/hockett2.png)
+
+
+## Wat is de architectuur van menselijke taal?
+
+Talige tekens kunnen:
+
+* iconisch zijn
+* indexicaal zijn
+* maar vrijwel altijd symbolisch (conventioneel en arbitrair)
+
+→ Tekens worden aangeleerd (culturele transmissie)
+
+## Wat is de architectuur van menselijke taal?
+
+[Duality of patterning]{.alert2} / double articulation (Martinet)
+
+Drie verschillende klanken zonder betekenis: 
+
+* [s, ɛ, t]
+
+Drie verschillende woorden met betekenis:
+
+* *\<ets>* [ɛts]
+* *\<set>* [sɛt]
+* *\<Est>* [ɛst]
+* *\<tes>* 'ט' of *\<Tess>* [tɛs]
+* \* *\<ste>* [stɛ]  (bestaat niet in het Nederlands, lexical gap)
+
+
+
+
+## Deelgebieden van de taalkunde
+
+
+:::: {.columns}
+
+::: {.column}
+
+Volgens [niveau]{.alert2} van tekens
+
+* fonetiek (H2)
+* fonologie (H2)
+* morfologie (H3)
+* lexicon (H4)
+* syntaxis (H5)
+* tekst en discours (H8)
+
+:::
+
+::: {.column .fragment}
+Volgens [interpretatie]{.alert2} van tekens
+
+* semantiek (H6)
+* pragmatiek (H6)
+
+:::
+
+::::
+
+
+## Deelgebieden van de taalkunde
+
+:::: {.columns}
+
+::: {.column .fragment}
+Volgens [perspectief]{.alert2} van tekens
+
+* sociaal (H 7-9)
+* biologisch (H 10)
+* psychologisch (H 11-12)
+* modaliteit: gebaren, schrift (H 13-14)
+* vergelijkend (H 15, 17)
+* historisch (H 16)
+
+:::
+
+::: {.column .fragment}
+Volgens [methodologie]{.alert2}
+
+* intuïtie
+* corpuslinguïstiek (H 9)
+* experiment (H 10-12)
+* typologisch (uitzoomen) (H 17)
+
+
+:::
+
+::::
+
+
+# Volgende week
+
+## Fonetiek
+
+Volgende week beginnen we met klanken.
+
+Je mag hoofdstuk 2 in het handboek al lezen ter voorbereiding.
+
