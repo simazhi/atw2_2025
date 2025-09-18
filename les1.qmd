@@ -1,5 +1,5 @@
 ---
-title: Algemene taalkunde I
+title: Algemene taalwetenschap II
 subtitle: Inleiding
 format: 
   kulqlvl-revealjs:
@@ -8,6 +8,7 @@ format:
     slide-number: true
     code-line-numbers: true
     embed-resources: true
+    incremental: true
     # multiplex: true
 # html-math-method:
 #   method: mathjax
@@ -16,10 +17,10 @@ author:
   - name: Dr. Thomas Van Hoey
     orcid: 0000-0002-5226-9752
     email: thomas.vanhoey@kuleuven.be
-    affiliation:
-      - name: QLVL @ KU Leuven
+    # affiliation:
+    #   - name: QLVL @ KU Leuven
         # url: www.ed.ac.uk
-date: "26 September 2024"
+date: "22 September 2025"
 logo: inputfiles/kul.png
 # bibliography: refs.bib
 # code-link: true
@@ -32,717 +33,879 @@ highlight-style: "github" # pygments, github
 
 ## Doelstellingen
 
-Inleiding in de basisconcepten en -methoden van de algemene taalkunde
-
-Focus op vier kernonderdelen
-
-1. fonetiek
-2. fonologie
-3. morfologie
-4. syntaxis
-
-Aanleren en inoefenen van de belangrijkste analysemethoden voor deze domeinen. 
+* Verwerving van een algemeen-taalwetenschappelijke basiskennis, met bijzondere aandacht voor de belangrijkste theorieën en onderzoeksvragen in de syntaxis, semantiek en pragmatiek
+* Verwerving van de vaardigheid om eenvoudige taalkundige problemen te analyseren in het kader van de verschillende taalkundige theorieën
 
 
-\+ Eerste kennismaking met de andere deelgebieden van de taalkunde, op basis van een handboek. 
-
-## Kennismaking
-
-:::: {.columns}
-
-::: {.column}
-
-* Nederlands
-* Frans
-* Engels
-* Spaans
-* Italiaans
-* Duits
-* Grieks
-* Latijn
-* Hebreeuws
-* Japans
-* Chinees
-* Filosofie
-* Andere?
-
-:::
-
-::: {.column .fragment}
-
-### Korte vraag
-
-Wie volgt dit vak voor de eerste keer?
-
-:::
-
-::::
-
-
-
-
-## Plaats in de opleiding
-
-Basiskennis om aan taalanalyse te doen
-
-* agnostisch m.b.t. een bepaalde taal
-* alle kennis versterkt elkaar
-  * taalspecifieke taalkundevakken
-  * literatuur
-  * lesgeven
-  * communicatie in bedrijven
-  * journalistiek
-  * vertalen en tolken
-  * ...
-
-## Docent
-
-:::: {.columns}
-
-::: {.column width="5%"}
-{{< fa person-chalkboard >}} 
-
-{{< fa book-open >}}
-
-{{< fa building >}}
-
-{{< fa envelope >}}
-:::
-
-::: {.column width="95%"}
-Dr. Thomas Van Hoey
-
-Taalkunde, KU Leuven 
-
-Blijde-Inkomststraat 21, 3000 Leuven
-
-thomas.vanhoey@kuleuven.be 
-:::
-
-::::
-
-
-## Uurrooster college
-
-* donderdag, 9-11 u
-* AP 01.30 (Jean Monnet) 
-
-[Het is sterk aangeraden de colleges bij te wonen]{.alert2}  
-maar lesopnames worden gemaakt en blijven beschikbaar tot twee weken na het college
-
-Dit wil zeggen dat na twee weken ze voor altijd verdwijnen en ook [niet]{.alert2} terugkomen in de zomer.
-
-## Vragen stellen
-
-
-[1. Voor of na de colleges]{.alert2}
-
-Spreek me gerust aan over recent geziene leerstof
+## Inbedding in het curriculum
 
 ::: {.fragment}
+ATW 1: Analytische geletterdheid 
 
-[2. Gebruik het vragenformulier op Toledo]{.alert2} 
-
-Zeker met betrekking tot vragen over het handboek
-
-[Link naar het vragenformulier](https://forms.office.com/e/2CC78dxPhR){target="_blank"}
+→ Focus op fonetiek, fonologie, morfologie, syntaxis
 
 :::
 
 ::: {.fragment}
+ATW 2: Theoretische geletterdheid 
 
-[3. Spreekuur]{.alert2}
+→ Vertrekkend vanuit 20e eeuw
 
-* op afspraak (meestal vrijdagvoormiddag)
-* lokaal LETT 02.32
-
+* Focus op syntaxis, semantiek, pragmatiek
+* Intern perspectief: nadruk op de structuur van taal
+* Extern perspectief: nadruk op taalvariatie en -verandering
 :::
 
 
-### 
+
+## Praktisch
+
+* 12 colleges
+* Slides + aanvullende lectuur beschikbaar op **Toledo**
+*  Colleges worden opgenomen (onder voorbehoud van goed werkende technische infrastructuur)
+  * Opnames blijven het hele jaar beschikbaar.
+
+## Evaluatie
+
+* Schriftelijk examen in januari
+  * deels kennisvragen
+  * deels toepassingsvragen
+  * deels inzichtsvragen
+* Open antwoorden, geen meerkeuzevragen
+* Voorbeeldvragen worden ter beschikking gesteld op toledo
+
+## Docenten
+
+::: columns
+::: {.column width="33%"}
+![](inputfiles/thomas.jpg){fig-alt="Thomas Van Hoey" height=400 fig-align="left"}
+
+:::{.center}
+
+Thomas Van Hoey
+
+:::
+
+:::
+
+::: {.column width="33%"}
+![](inputfiles/karen.jpg){fig-alt="Karen Lahousse" height=400 fig-align="left"}
+
+:::{.center}
+
+Karen Lahousse
+
+:::
+:::
+
+::: {.column width="33%"}
+![](inputfiles/benedikt.jpg){fig-alt="Benedikt Szmrecsanyi" height=400 fig-align="left"}
+
+:::{.center}
+
+Benedikt Szmrecsanyi
+
+:::
+:::
+:::
 
 
-### 
+## Inhoud colleges
+
+* Inleiding (1 les - vandaag)
+* Syntaxis & structuur: 3 colleges (Karen)
+* Syntaxis & variatie: 3 colleges (Benedikt)
+* Semantiek: 3 colleges (Thomas)
+* Pragmatiek: 2 colleges (Thomas)
+
+# Een korte geschiedenis van de taalkunde als discipline
 
 
+## Niveaus van taalkundige beschrijving
 
+```{r}
+levels1 <- '
 
-## E-mail etiquette
+digraph G {
+    rankdir="TB"
+    graph [fontname = "Sedgwick Ave"];
+    node [fontname = "Sedgwick Ave"];
+    edge [fontname = "Sedgwick Ave"];
 
-Tips voor goede communicatie aan de universiteit
+    subgraph cluster_linguistics {
+        label = "the scientific study of language";
+        labelloc = "t";
+        style = "invis";
 
-[Geef een duidelijk onderwerp op]{.alert2}
+        taalkunde [shape=rect];
+    }
 
-* "ATW1 vraag over morfologie"
+    klank [shape = none];
+    structuur [shape = none];
+    betekenis [shape = none];
 
-. . .
+    subgraph cluster_sound {
+        style=invis;
+        fonetiek [shape = none];
+        fonologie [shape = none];
+        fonetiek -> fonologie [style=invis];
+    }
 
-[Schrijf gericht aan en met correcte aanspreking]{.alert2}
+    subgraph cluster_structure {
+        style=invis;
+        morfologie [shape = none];
+        syntaxis [shape = none];
+        morfologie -> syntaxis [style=invis];
+    }
 
-* "*Beste professor Van Hoey*" / "*Beste Dr. Van Hoey*"
-* [niet]{.alert} "*~~Yo Thomas~~*" / "*hejkes*"
-* [niet]{.alert}"*beste,*"
+    subgraph cluster_meaning {
+        style=invis;
+        pragmatiek [shape = none];
+        semantiek [shape = none];
+        pragmatiek -> semantiek [style=invis];
+    }
 
-. . .
+    taalkunde -> klank;
+    taalkunde -> structuur;
+    taalkunde -> betekenis;
+    klank -> fonetiek;
+    structuur -> morfologie;
+    betekenis -> pragmatiek;
+}
 
-[Identificeer jezelf duidelijk]{.alert2}
+'
 
-* "Ik ben Jan Peeters en volg het vak ATW1"
-
-## E-mail etiquette
-
-
-[Wees bondig maar geef genoeg informatie]{.alert2}
-
-* Draai niet rond de pot maar kom meteen ter zake
-
-. . .
-
-[Redenen om [niet]{.alert} te sturen]{.alert2}
-
-* de informatie is gemakkelijk vindbaar
-* je kan niet komen naar de les (ik moet het niet weten)
-* ...
-
-. . .
-
-[Redenen om [wel]{.alert} te sturen]{.alert2}
-
-* er ontbreekt een document op toledo dat er wel zou moeten staan
-* je wil langskomen op spreekuur
-* ...
-
-
-## E-mail etiquette
-
-[Wees geduldig]{.alert2}
-
-* Mails gestuurd op vrijdagavond met een follow-up op maandagochtend om 8:43 die als volgt klinkt kunnen wellicht lang wachten op een antwoord.
-
+DiagrammeRsvg::export_svg(DiagrammeR::grViz(levels1)) |>
+  cat(file = "inputfiles/levels1.svg")
 ```
-Beste,
 
-Zoals ik vorige week vrijdag [noot: om 17:45] al zei is mijn leguaan Khaleesi aan het vervellen. Ik wil een hele week kijken naar dit proces. Ik zal dus niet naar de les kunnen komen maar heb wel vragen over wat we deze week zullen zien. Ik heb nog niets gelezen van het handboek maar hopelijk kan je mij alles vertellen. Ik kan maandag van 18-19 uur en zondag om 20-22 uur. 
 
-Hopelijk hoor ik nu wel snel iets van u want ik heb al drie hele dagen niks gehoord!!!
+::: columns
+::: {.column width="50%"}
+![](inputfiles/levels1.svg)
 
-xoxo
-
-Daenarys Vanden Bossche
-```
-
-##	Materiaal 
-
-[Handboek]{.alert2}
-
-:::: {.columns}
-
-::: {.column}
-
-McGregor, William B. 2024. Linguistics: An introduction. 3rd  edition. London: Continuum. 
-
-Te koop onder andere bij
-
-* Acco
-* Babylon
-* Peeters
-* online
 
 :::
 
-::: {.column width="40%"}
-
-![](inputfiles/mcgregor3.jpg){}
+::: {.column width="50%"}
+* fonologie: klank
+* morfologie: woordstructuur
+* syntaxis: zinsstructuur
+* semantiek: woordbetekenis, en hoe die te combineren tot een groter betekenisgeheel
+* pragmatiek: de betekenis van taaluitingen in een gebruikscontext (discours)
 
 :::
-
-::::
-
-## Materiaal
-
-[Verwerking leerstof]{.alert2}
-
-:::: {.columns}
-
-::: {.column}
-
-Hoofdstukken 1-3 & 5
-
-<br>
-<br>
-Hoofdstukken 7-17
-
-<br>
-~~Hoofdstukken 4 & 6~~
-:::
-
-::: {.column}
-
-Theorie & oefeningen bij deze hoofdstukken worden in de les behandeld.
-
-Zelfstandig te verwerken lectuur. 
-
-Deze thema's komen aan bod in ATW II.
-:::
-
-::::
-
-## Materiaal
-
-[Lesplanning]{.alert2}
-
-13 weken college   
-= ongeveer 2,5 weken per thema
-
-* fonetiek
-* fonologie
-* morfologie
-* syntaxis
-
-Er zijn ook twee momenten voorzien waarin vragen over het handboek worden beantwoord.
-
-Daarnaast zijn er ook een aantal monitoraatssessies.
-
-## Studieplanning (zelfstudie)
-
-::: {.font90}
-
-Datum |	Te verwerken hoofdstuk 
-------| --------------
-26 september |	/
-03 oktober	 | Chapter 7: Sociolinguistics: language in its social context
-10 oktober	 | Chapter 8: Text and discourse
-17 oktober	 | Chapter 9: Investigating language in use: corpus linguistics
-24 oktober	 | Chapter 10: Language in its biological context
-31 oktober	 | Chapter 11: Psycholinguistics: Language, the mind and the brain
-07 november	 | Chapter 12: Language learning
-|             | Mogelijkheid tot stellen van vragen over hoofdstukken 7-11
-14 november	 | Chapter 13: Sign languages
-21 november	 | Chapter 14: Writing
-28 november	 | Chapter 15: Unity and diversity in language structure
-05 december	 | Chapter 16: Language change
-12 december	 | Chapter 17: Languages of the world
- 19 december	| Mogelijkheid tot stellen van vragen over hoofdstukken 12-16
-
 :::
 
 
-## Materiaal
+## De Indische traditie
 
-[Notities]{.alert2}
-
-Deze zijn DIY: je maakt ze zelf. Sterke aanrader om handmatig notities te nemen en de belangrijkste ideeën uit de colleges structureel te filtreren.  
-Het heeft geen zin om alles letterlijk over te schrijven in volzinnen.
-
-
-[Handouts]{.alert2}
-
-Per college worden handouts voorzien met een samenvatting van de belangrijkste begrippen, eventuele aanvullingen bij het handboek, en oefeningen. 
-
-Deze worden in principe pas na de les beschikbaar gesteld.
-
-
-
-
-## Materiaal
-
-
-[Elektronisch materiaal]{.alert2}
-
-Software voor het inoefenen van articulatorische fonetiek (Toledo)
-
-
-[Oefeningen]{.alert2}
-
-De oefeningen worden beschikbaar gesteld op Toledo.
-
-Om maximaal te kunnen volgen in de les [moet je zelf de oefeningen op voorhand afdrukken.]{.alert} 
-Gewoon meevolgen op je gsm/tablet/computer doet je slaagkansen voor het examen dalen.
-
-## Examenvorm
-
-Schriftelijk examen. 
-
-Het examen bestaat uit vier vragen:
-
-:::: {.columns}
-
-::: {.column  width="15%"}
-
-[*kunnen*]{.alert2}
-
-<br>
-[*kennen*]{.alert2}
-
-:::
-
-::: {.column  width="85%"}
-
-oefeningen oplossen met betrekking tot fonetiek, fonologie, morfologie, syntaxis
-
-theorievraag (zelfstudie)
-
-:::
-
-::::
-
-
-
-## ChatGPT en LLMs
-
-Niet helemaal relevant voor dit vak maar weet dat
-
-* het beleid van de KU Leuven gebruik van LLMs toestaat tenzij anders aangegeven,
-* [mits]{.alert2} je het gebruik ervan aangeeft.
-
-Maar weet ook dat [LLMs je niet zullen helpen om de basisconcepten voor dit vak zelf te verwerken.]{.alert}  
-
-
-
-## Discrepanties
-
-[ECTS-fiche]{.alert2}
-
-Check altijd goed de ECTS-fiche
-
-[link naar ECTS-fiche voor dit vak](https://onderwijsaanbod.kuleuven.be/syllabi/n/F0AA3AN.htm){target="_blank"}
-
-[Discrepanties]{.alert2}
-
-Indien er discrepanties zijn tussen wat in de les gezegd wordt en wat er op Toledo staat, spreken we af dat de meest recente communicatie op Toledo geldt.
-
-
-
-## Nalezen
-
-Deze informatie is ook beschikbaar op Toledo in twee documenten
-
-1. praktisch.pdf
-2. zelfstudie.pdf
-
-# Pauze
-
-# Tijd voor taalkunde
-
-
-## Taalkunde / taalwetenschap / linguïstiek
-
-1. Wat is taalkunde?
-2. Wat is taal?
-3. Op welke manier bestudeert taalkunde de taal?
-
-## Wat is taalkunde?
-
-Taalkunde = wetenschappelijke  studie van menselijke  taal
-
-
-→ methode: wetenschappelijk
-
-→ object: menselijke taal 
-
-
-## Wat is taalkunde?
-
-Taalkunde = wetenschappelijke  studie van menselijke  taal
-
-→ methode: wetenschappelijk 
-
-:::: {.columns}
-
+::: columns
 ::: {.column width="60%"}
 
-::: {.fragment fragment-index=1}
-* empirisch: descriptief vs. prescriptief
-* stimulus-respons (Leonard Bloomfield) vs. mentalistisch (Noam Chomsky)
+Traditioneel wordt Pāṇini beschouwd als de eerste taalkundige.
+Zijn *Aṣṭādhyāyī* is een grammatica van het Sanskriet, die bestaat uit 3996 versregels, of sūtra's.
 
-:::
-::: {.fragment fragment-index=2}
-* modelvorming: observeren, veralgemenen en verklaren
+De meeste van die verzen hebben te maken met structurele vormingsregels (fonologie, morfologie, syntaxis).
 
-:::
-::: {.fragment fragment-index=3}
-* methoden: taalkunde & andere disciplines
 
-:::
 :::
 
 ::: {.column width="40%"}
 
-::: {.fragment fragment-index=4 .fade-up}
-![](inputfiles/cogsci.png)
+![](inputfiles/stamppanini.jpeg)
 
 :::
-
-:::
-
-::::
-
-
-
-
-
-
-## Wat is taalkunde?
-
-Taalkunde = wetenschappelijke  studie van menselijke  taal
-
-→ object: menselijke taal 
-
-::: {.fragment fragment-index=1}
-* aard: taal vs. talen
-
-:::
-::: {.fragment fragment-index=2}
-* ongeveer 7000 talen (zie [https://glottolog.org/](https://glottolog.org/){target="_blank"}
-
-:::
-::: {.fragment fragment-index=3}
-* kenmerken 1 taal / taalfamilie niet noodzakelijk universeel
-
-:::
-::: {.fragment fragment-index=4}
-* modaliteit : geschreven vs gesproken / gebaard
-
-:::
-::: {.fragment fragment-index=5}
-* gesproken / gebaard : primair
-
-:::
-::: {.fragment fragment-index=6}
-* geschreven : secundair (tenzij het niet  anders  kan, bv.   historische  taalkunde)
-
 :::
 
 
 
 
-## Wat is taal?
-
-Taal = complex adaptief systeem van tekens
-
-→ systeem: fenomeen van de "derde soort"
-
-→ tekens: koppeling van vorm en betekenis
-
-→ complex adaptief: dynamisch
-
-## Wat is taal?
-
-Taal = complex adaptief systeem van tekens
-
-→ systeem: fenomeen van de "derde soort" (Rudi Keller)
+## De Indische traditie
 
 
-::: {.fragment fragment-index=1}
-* soort 1: natuurlijke  objecten (bv  graniet )
+Enkele termen die je soms nog tegenkomt die uit deze traditie stammen.
+
+
+
+::: {.fragment}
+Fonologie
+
+* [sandhi]{.alert2}: *√bhū* 'zijn'; *√bhū* + *-a-* + *-ti* \> *bhavati* 'hij is'
+* [svarabhaktivocaal]{.alert2}: \<melk\> \[mɛl**ə**k\]
 
 :::
-::: {.fragment fragment-index=2}
-* soort 2: intentioneel  gecreëerde  objecten ( bv  gedicht)
+
+::: {.fragment}
+Morfologie
+
+* [tatpuruṣa]{.alert2}samenstelling: endocentrisch, eerste element zegt iets over het tweede element, bv. *komma-neuker*, *mieren-neuker* 
+* [dvandva]{.alert2}samenstelling: A en B, bv. *singer-songwriter*
+* [bahuvrīhi]{.alert2}samenstelling: exocentrisch, eerste element zegt iets over het tweede element, bv. *rood-borstje*, *dom-oor*
 
 :::
-::: {.fragment fragment-index=3}
-* soort 3: niet-intentionele  resultaten van gecumuleerde  intentionele  acties ( bv file, economie, olifantenpaadjes, taal)
 
-::: 
+## Griekenland en Rome
+
+* Poëtische en retorische doeleinden, filosofie.
+* Plato: basisonderscheid onderwerp-gezegde
+* Dionysius Thrax: acht woordsoorten 
+  * substantief, verbum, participium, artikel, pronomen, prepositie, adverbum, conjunctie
+
+## Middeleeuwen en renaissance
+
+Zeven vrije kunsten:
+
+* [trivium]{.alert2}: grammatica, logica, retorica
+* quadrivium: wiskunde, geometrie, muziek, astronomie
+
+::: {.fragment}
+
+Aandacht voor andere talen naast het Grieks en het Latijn; standaardisatieproces van spreek- en schrijftaal
+
+:::
+
+::: {.fragment}
+Speculatieve grammatica's en vergelijkende taalkunde
+
+* Becanus' *Origines Antwerpianae*: Diets / Duyts / Douts = d'oudste taal
+* ook al verworpen door tijdgenoten, bv. Justus Lipsius
+
+:::
+
+
+## Vergelijkende taalkunde (18de-19de eeuw)
+
+::: columns
+::: {.column width="80%" .smaller}
+
+
+> The Sanscrit language, whatever be its antiquity, is of a wonderful structure; more perfect than the Greek, more copious than the Latin, and more exquisitely refined than either, yet bearing to both of them a stronger affinity, both in the roots of verbs and the forms of grammar, than could possibly have been produced by accident; so strong indeed, that no philologer could examine them all three, without believing them to have sprung from some common source, which, perhaps, no longer exists; there is a similar reason, though not quite so forcible, for supposing that both the Gothic and the Celtic, though blended with a very different idiom, had the same origin with the Sanscrit; and the old Persian might be added to the same family.
+>
+> William Jones (1786)
+
+
+:::
+
+::: {.column width="20%"}
+
+![William Jones](inputfiles/williamjones.jpg)
+
+
+
+
+:::
+:::
+
+## Vergelijkende taalkunde (18de-19de eeuw)
+
+Interesse in cognaten en taalverwantschap leidt tot inzichten als de [Wet van Grimm]{.alert2}.
+  * Voornamelijk de groep van [neogrammatici]{.alert2} ([Junggrammatiker]{.alert2}) wordt geassocieerd met het ontdekken van deze klankwetten.
+
+```{dot}
+digraph {
+  rankdir=TB;
+
+  Z [ label = "PIE bh dh g" ]
+  K [label="OGM v ð ɣ"]
+  Y [label="PIE p t k"]
+  L [label = "OGM f θ χ"]
+  X [label = "PIE b d g"]
+  M [label = "OGM p t k"]
   
-## Wat is taal?
+  Z -> K;
+  Y -> K [label = "Wet van Verner"];
+  Y -> L;
+  X -> M;
+  Y -> M [label = "na stemloze fricatief"];
   
-Taal = complex adaptief systeem van tekens
+}
+```
 
-→ tekens: koppeling van vorm en betekenis (semiotiek)
+## Stamboommodel
 
-::: {.fragment fragment-index=1}
-* vorm: iets waarneembaars
+```{dot}
+graph {
+  rankdir=TB;
 
-:::
-::: {.fragment fragment-index=2}
-* betekenis: concept
+  A [label = "Proto-Indo-Europees", shape=none]
+  B [label = "Proto-Germaans", shape=none]
+  C [label = "Romaans", shape=none]
+  D [label = "Balto-Slavisch", shape=none]
+  E [label = "Keltisch", shape=none]
+  F [label = "Noord-Germaans", shape=none]
+  G [label = "West-Germaans", shape=none]
+  H [label = "Oost-Germaans", shape=none]
+  I [label = "Zweeds", shape=none]
+  J [label = "Deens", shape=none]
+  K [label = "Nederlands", shape=none]
+  L [label = "Engels", shape=none]
+  M [label = "Duits", shape=none]
+  N [label = "Gotisch", shape=none]
+  O [label = "Latijn", shape=none]
+  P [label = "Italiaans", shape=none]
+  Q [label = "Frans", shape=none]
+  R [label = "Spaans", shape=none]
+  S [label = "Slavisch", shape=none]
+  T [label = "Russisch", shape=none]
+  U [label = "Pools", shape=none]
+  V [label = "Gaelisch", shape=none]
+  W [label = "Iers", shape=none]
+  X [label = "Brythonisch", shape=none]
+  Y [label = "Welsh", shape=none]
+  
+  A -- B;
+  A -- C;
+  A -- D;
+  A -- E;
+  B -- F;
+  B -- G;
+  B -- H;
+  F -- I;
+  F -- J;
+  G -- K;
+  G -- L;
+  G -- M;
+  H -- N;
+  C -- O;
+  O -- P;
+  O -- Q;
+  O -- R;
+  D -- S;
+  S -- T;
+  S -- U;
+  E -- V;
+  E -- X;
+  V -- W;
+  X -- Y;
+  
+}
+```
 
-:::
-::: {.fragment fragment-index=3}
-* de link tussen vorm en betekenis is essentieel (twee kanten van dezelfde munt)
-
-:::
-
-## Wat is taal? *signifié, signifiant, arbitrariness*
+## Stamboommodel
 
 
-![Famous diagram by structuralist Ferdinand de Saussure (1916)](inputfiles/saussuretree.jpg) 
+* August Schleicher (1853) meest bekende proponent.
+* Doel = genetische classificatie
+* Neogrammatici / Junggrammatiker
 
-
-##	Wat is taal?
-
-Taal = complex adaptief systeem van tekens
-
-→ tekens: discipline van de semiotiek
-
-Drie types tekens: aard  relatie  vorm & betekenis (Charles Peirce)
-
-1. arbitrair: symbolisch
-2. contiguïteit: indexicaal
-3. gelijkenis: iconisch
- 
-##	Wat is taal?
-
-symbool, index, icoon
-
-::: {.fragment fragment-index=1}
-Merk op: alle drie betekenisrelaties kunnen aanwezig zijn in een uiting.
-
-*Salem [meowed]{.alert} his way through the crowd.*
-
-:::
-
-::: {.fragment fragment-index=1}
-![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZ0ZnJraWVocmQxNjE0czM0Y3N4b3A2NGJqdHFzemd3bXJpemlpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M7EQSsEXkGRvq/giphy.gif)
-
-:::
-
-
-
-## Wat is taal?
-
-Taal = complex adaptief systeem van tekens
-
-→ complex adaptief
-
-![Cognitieve sociolinguïstiek zoals bedreven door Dirk Geeraerts (2010)](inputfiles/sociodiagram.png)
-
-
-
-
-## Wat is menselijke taal?
-
-[Menselijke taal]{.alert2} tuusen [alle tekensystemen]{.alert}?
-
-[1. de mens]{.alert2} versus andere diersoorten
-
-:::: {.columns}
-
-::: {.column}
-Bijendans
-
-{{< video https://www.youtube.com/watch?v=-7ijI-g4jHg  >}}
-
+::: {.fragment}
+![](inputfiles/schleicher.jpg){width=70%}
 
 :::
 
-::: {.column}
-Stekelbaars
-
-{{< video https://youtu.be/5m_UgQlx1mU?si=4Dhr-KpYKOUFYD28 >}}
-
-:::
-
-::::
-
-
-
-## Wat is de architectuur van menselijke taal?
-
-![Design features van Charles Hockett (1960)](inputfiles/hockett1.png)
-
-
-
-## Wat is de architectuur van menselijke taal?
-
-![Design features van Charles Hockett (1960)](inputfiles/hockett2.png)
-
-
-## Wat is de architectuur van menselijke taal?
-
-Talige tekens kunnen:
-
-* iconisch zijn
-* indexicaal zijn
-* maar vrijwel altijd symbolisch (conventioneel en arbitrair)
-
-→ Tekens worden aangeleerd (culturele transmissie)
-
-## Wat is de architectuur van menselijke taal?
-
-[Duality of patterning]{.alert2} / double articulation (Martinet)
-
-Drie verschillende klanken zonder betekenis: 
-
-* [s, ɛ, t]
-
-Drie verschillende woorden met betekenis:
-
-* *\<ets>* [ɛts]
-* *\<set>* [sɛt]
-* *\<Est>* [ɛst]
-* *\<tes>* 'ט' of *\<Tess>* [tɛs]
-* \* *\<ste>* [stɛ]  (bestaat niet in het Nederlands, lexical gap)
 
 
 
 
-## Deelgebieden van de taalkunde
+## Golfmodel (*Wellentheorie*)
 
+* Er kwam ook kritiek op het stamboommodel.
+* Johannes Schmidt: in plaats van een enkele vooroudertaal, een dialectcontinuüm
+* Verklaart bv. waarom de tweede Germaanse klankverschuiving maar in bepaalde delen van de woordschat in verschillende dialecten voorkwamen.
+* We zien de na-effecten in isoglossen.
 
-:::: {.columns}
-
-::: {.column}
-
-Volgens [niveau]{.alert2} van tekens
-
-* fonetiek (H2)
-* fonologie (H2)
-* morfologie (H3)
-* lexicon (H4)
-* syntaxis (H5)
-* tekst en discours (H8)
+::: {.fragment}
+![(François 2014)](inputfiles/wavetheory.png)
 
 :::
 
-::: {.column .fragment}
-Volgens [interpretatie]{.alert2} van tekens
-
-* semantiek (H6)
-* pragmatiek (H6)
-
-:::
-
-::::
 
 
-## Deelgebieden van de taalkunde
+## Structuralisme (begin 20ste eeuw)
 
-:::: {.columns}
+::: columns
+::: {.column width="80%" .fragment data-fragment-index="1"}
 
-::: {.column .fragment}
-Volgens [perspectief]{.alert2} van tekens
-
-* sociaal (H 7-9)
-* biologisch (H 10)
-* psychologisch (H 11-12)
-* modaliteit: gebaren, schrift (H 13-14)
-* vergelijkend (H 15, 17)
-* historisch (H 16)
+* Traditioneel beginpunt: Ferdinand de Saussure - *Cours de linguistique générale* (1916)
+* [signifiant]{.alert2} vs. [signifié]{.alert2}
+* *"Un système où tout se tient"* (Antoine Meillet): De betekenis van taaltekens wordt bepaald
+door de andere tekens binnen de taalstructuur
+* Kernidee: [distinctieve verschillen]{.alert2}
 
 :::
 
-::: {.column .fragment}
-Volgens [methodologie]{.alert2}
+::: {.column width="20%" .fragment data-fragment-index="0"}
 
-* intuïtie
-* corpuslinguïstiek (H 9)
-* experiment (H 10-12)
-* typologisch (uitzoomen) (H 17)
+![Ferdinand de Saussure](inputfiles/saussure.jpg)
+
+
+![Antoine Meillet](inputfiles/meillet.jpg)
+
+:::
+:::
+
+
+
+
+
+## Descriptieve taalkunde (vroege 20ste eeuw)
+
+::: columns
+::: {.column width="80%" .fragment data-fragment-index="1"}
+
+* Studie van inheemse Amerikaanse talen, met nadruk op de verschillen
+* Linguïstische relativiteit: grammaticale systemen en taalgebruik beïnvloeden de perceptie
+* Kernidee: taal is beschrijving
+
+:::
+
+::: {.column width="20%" .fragment data-fragment-index="0"}
+
+![Leonard Bloomfield](inputfiles/bloomfield.jpg)
+
+![Edward Sapir en Benjamin Whorf](inputfiles/sapirwhorf.jpg)
+
+
+
+:::
+:::
+
+
+
+
+## Generatieve grammatica (1950 - nu)
+
+
+::: columns
+::: {.column width="80%" .fragment data-fragment-index="1"}
+
+* [Universele grammatica]{.alert2}
+  * Grammatica als een regelgebaseerd systeem dat grammaticale zinnen (uitsluitend) genereert voor een bepaalde taal
+  * [competence]{.alert2} vs. [performance]{.alert2}
+  * linguïstische [universalia]{.alert2}
+  * Behoefte aan [formalisering]{.alert2} en explicitering
+* [LAD]{.alert2}, het Language Acquisition Device
+  * ogenschijnlijke discrepantie tussen de complexiteit van natuurlijke talen en het gemak waarmee kinderen die talen leren.
+  * taal is aangeboren
+  
+
+:::
+
+::: {.column width="20%" .fragment data-fragment-index="0"}
+
+![Noam Chomsky](inputfiles/chomsky.jpg)
+
+![Steven Pinker](inputfiles/pinker.webp)
+
+
+:::
+:::
+
+## Generatieve grammatica (1950 - nu)
+
+
+* Verschillende evoluties
+  * Transformational Grammar (1950-1965): deep structures, surface realizations
+  * Standard Theory (en de Extended Standard Theory) (1965-1980): rol semantiek in het model
+  * Government and Binding Theory (1980-1985): taal bestaat uit modules (X-bar, Case, Theta)
+  * Principles and Parameters (1985-1995): universele principes, taalspecifieke parameters
+  * Minimialist Program (1995-nu): architectuur taal zo klein mogelijk, (phase theory)
+
+
+  
+## Functioneel-cognitieve grammatica (1980 - nu)
+
+
+::: columns
+::: {.column width="80%" .fragment data-fragment-index="1"}
+
+* Reactie tegen de isolering van de grammatica
+* Taal is niet autonoom, maar ingebed
+  * in zijn gebruikscontext
+  * in de algemene cognitieve capaciteiten van de mens
+* Systemic functional linguistics (Michael Halliday)
+* Cognitive linguistics (George Lakoff, Eleanor Rosch)
+
 
 
 :::
 
-::::
+::: {.column width="20%" .fragment data-fragment-index="0"}
+
+![Michael Halliday](inputfiles/halliday.png)
+
+![George Lakoff](inputfiles/lakoff.jpg)
+
+![Eleanor Rosch](inputfiles/rosch.jpg)
 
 
-# Volgende week
 
-## Fonetiek
+:::
+:::
 
-Volgende week beginnen we met klanken.
+## Taalkundig empirisme (1980s - nu)
 
-Je mag hoofdstuk 2 in het handboek al lezen ter voorbereiding.
+::: columns
+::: {.column width="80%" .fragment data-fragment-index="1"}
+
+* Opkomst van experimenteel en corpuslinguïstisch onderzoek
+  * beschikbaarheid van digitale tekstverzamelingen
+  * toenemende mogelijkheden voor breedschalige datagerichte analyse
+  * methode bij uitstek voor beschrijving van taalgebruik (vs. introspectie voor analyse van taalstructuur)
+  * nadruk op *reproducibility* en *replicability*
+* Bekende corpora
+  * [BNC]{.alert2}: British National Corpus
+  * [COCA]{.alert2}: Corpus of Contemporary American English
+
+:::
+
+::: {.column width="20%" .fragment data-fragment-index="0"}
+
+![Douglas Biber](inputfiles/biber.jpg)
+
+![John Sinclair](inputfiles/sinclair.jpg)
+
+
+:::
+:::
+
+
+
+## de "Quantitative turn"
+
+::: columns
+::: {.column width="80%" .fragment data-fragment-index="1"}
+
+* Belang van statistiek
+  * linguïstische regelmaat wordt gevat in termen van [waarschijnlijkheid]{.alert2} (in plaats van deterministische regels)
+  * taalkunde als exacte(re) wetenschap: hypotheses die getoetst worden aan experimentele observaties door middel van statistische methodes
+    * STEM zou uitgebreid kunnen worden tot MELTS
+* Methodologische uitbreiding
+  * t-test, ANOVA
+  * Regressieanalyses
+  * Bayesiaans modelleren
+  
+
+:::
+
+::: {.column width="20%" .fragment data-fragment-index="0"}
+
+![Harald Baayen](inputfiles/baayen.jpg)
+
+![Stefan Gries](inputfiles/gries.jpg)
+
+
+:::
+:::
+
+
+
+
+## de "Social turn" (1970s-nu)
+
+::: columns
+::: {.column width="80%" .fragment data-fragment-index="1"}
+
+* Taal wordt beïnvloed door sociale relaties, identiteit, verschillen in macht
+  * Context, interactie
+  * Betekenis is emergent
+* Theorieën en frameworks:
+  * Discourse Analysis (DA)
+  * Critical Discourse Analysis (CDA)
+  * [Sociolinguïstiek]{.alert2}
+
+:::
+
+::: {.column width="20%" .fragment data-fragment-index="0"}
+
+![William Labov](inputfiles/labov.jpg)
+
+![Penelope Eckert](inputfiles/eckert.jpeg)
+
+:::
+:::
+
+## Psycholinguïstiek
+
+::: columns
+::: {.column width="80%" .fragment data-fragment-index="0"}
+
+* Mentale processen die aan de gang zijn bij taal en taalvewerving
+* Experimenten (*behavioral data*)
+  * fMRI (functional magnetic resonance imaging)
+  * EEG (elektro-encefalografie), ERP (event-related potentials)
+  * eye-trackers
+  * reactietijden
+
+:::
+
+::: {.column width="20%" .fragment data-fragment-index="1"}
+
+![N400 en P600](inputfiles/n400.png)
+
+![fMRI](inputfiles/fmri.webp)
+
+:::
+:::
+
+
+## Neurolinguïstiek
+
+
+::: columns
+::: {.column width="60%"}
+
+* De hersenen zijn het primaire studieobject
+  * ontdekken welke regio's actief zijn voor welke taken
+* Experimenten
+  * fMRI, EEG, ERP, ...
+
+:::
+
+::: {.column width="40%" .fragment}
+
+![Ev Fedorenko, Edward Gibson, Roger Levy (MIT)](inputfiles/mitlab.jpeg)
+
+:::
+:::
+
+
+
+
+## Taal en wiskunde
+
+::: columns
+::: {.column width="80%" .fragment data-fragment-index="1"}
+
+
+* Sterke vooruitgang op het vlak van kunstmatige intelligentie, zeker met betrekking tot taalverwerking
+  * Recente modellen voor taalverwerking gebaseerd op wiskundige representaties
+  * Huidige state of the art: taalverwerking met neurale netwerken
+* Rol van taalkunde:
+  * Steeds minder expliciete linguïstische kennis in computationele taalmodellen
+  * Is linguïstische kennis impliciet aanwezig, en kunnen we daar iets uit leren voor de linguïstiek in het algemeen?
+
+:::
+
+::: {.column width="20%" .fragment data-fragment-index="0"}
+
+![Dan Jurafsky](inputfiles/jurafsky.jpg)
+
+![Google DeepMind](inputfiles/deepmind.jpg)
+
+:::
+:::
+
+# Verschuivingen binnen de taalkunde
+
+## Niveaus van taalkundige beschrijving
+
+Algemeen
+
+![](inputfiles/levels1.svg)
+
+## Niveaus van taalkundige beschrijving
+
+Focus van dit vak
+
+
+```{r}
+levels1 <- '
+
+digraph G {
+    rankdir="TB"
+    graph [fontname = "Sedgwick Ave"];
+    node [fontname = "Sedgwick Ave"];
+    edge [fontname = "Sedgwick Ave"];
+
+    subgraph cluster_linguistics {
+        label = "the scientific study of language";
+        labelloc = "t";
+        style = "invis";
+
+        taalkunde [shape=rect];
+    }
+
+    klank [shape = none];
+    structuur [shape = none];
+    betekenis [shape = none];
+
+    subgraph cluster_sound {
+        style=invis;
+        fonetiek [shape = none];
+        fonologie [shape = none];
+        fonetiek -> fonologie [style=invis];
+    }
+
+    subgraph cluster_structure {
+        style=invis;
+        morfologie [shape = none];
+        syntaxis [shape = none, fontcolor="#9a2515"];
+        morfologie -> syntaxis [style=invis];
+    }
+
+    subgraph cluster_meaning {
+        style=invis;
+        pragmatiek [shape = none, fontcolor="#9a2515"];
+        semantiek [shape = none, fontcolor="#9a2515"];
+        pragmatiek -> semantiek [style=invis];
+    }
+
+    taalkunde -> klank;
+    taalkunde -> structuur;
+    taalkunde -> betekenis;
+    klank -> fonetiek;
+    structuur -> morfologie;
+    betekenis -> pragmatiek;
+}
+
+'
+
+DiagrammeRsvg::export_svg(DiagrammeR::grViz(levels1)) |>
+  cat(file = "inputfiles/levels2.svg")
+```
+
+![](inputfiles/levels2.svg)
+
+## Fonetiek en fonologie 
+
+* Onderscheid fonetiek / fonologie
+  * fonetiek: klanken als akoestisch en articulatorisch object
+  * fonologie: klanken op abstract functioneel niveau (betekenisonderscheid)
+* */be:r/ vs. /pe:r/*
+* Structuralisme
+
+
+## Morfologie
+
+* Woordstructuur
+* morfeem = kleinste betekenisvolle eenheid
+* *chocolaa-tje-s*, *ge-wandel-d*
+* Structuralisme, Descriptieve taalkunde
+
+
+## Syntaxis
+
+::: columns
+::: {.column width="60%"}
+
+* Hoe kunnen woorden tot zinnen worden samengevoegd?
+* Belangrijkste onderzoeksobject van de generatieve grammatica
+  * regelgebaseerd
+  * [hiërarchisch]{.alert2}
+  * formeel, autonoom systeem (onafhankelijk van betekenis)
+* breed scala aan syntactische theorieën en representaties zien het licht in de loop van de 20ste eeuw
+  * voornamelijk Generatieve Grammatica
+  * $\leftrightarrow$ Cognitieve aanpak: grammatica kan niet losgekoppeld worden van betekenis
+
+:::
+
+::: {.column width="40%"}
+
+![](inputfiles/greenideas.png)
+
+:::
+:::
+
+## Semantiek
+
+* lexicale semantiek
+  * woordbetekenis
+  * [semasiologisch]{.alert2}: van woord naar betekenis
+  * [onomasiologisch]{.alert2}: van betekenis naar woord
+  * Cognitieve taalkunde
+* formele semantiek
+  * hoe wordt betekenis opgebouwd door elementen te combineren
+  * formele benaderingen
+* computationele semantiek
+  *  automatische inductie van betekenis door contextvergelijkingen
+
+## Pragmatiek
+
+* Taaluitingen in context
+  * taalbetekenis
+  * taalgebruik
+* ontwikkelt zich als onafhankelijke discipline als reactie op formalisering
+
+## Verschuivende dominante stromingen
+
+* Structuralisme (1900s-1950s)
+* Descriptieve taalkunde (1930-1960s)
+* Formele taalkunde (1950s-nu)
+* Cognitief-functionele taalkunde (1980s-nu)
+
+## Verschuivende modeldisciplines
+
+<!-- Stroming  |   Model  |  Wijze -->
+<!-- ----------| -----------------  | --- -->
+<!-- Structuralisme | fonologie | betekenisonderscheid van de vorm (*signifiant*)  -->
+<!-- Descriptieve taalkunde | morfologie | distributies bepalen alles -->
+<!-- Formele taalkunde  |  syntaxis  |  andere disciplines zijn ook hiërarchisch -->
+<!-- Cognitief-functionele taalkunde | semantiek | andere disciplines drukken ook betekenis uit (behalve fonetiek) -->
+
+::: {.font80}
+
+
+```{r}
+tibble::tribble(
+                          ~Stroming,              ~Model,                                                            ~Wijze,
+                   "Structuralisme",         "fonologie",                 "betekenisonderscheid van de vorm (signifiant)",
+           "Descriptieve taalkunde",        "morfologie",                                      "distributies bepalen alles",
+                "Formele taalkunde",          "syntaxis",                        "andere disciplines zijn ook hiërarchisch",
+  "Cognitief-functionele taalkunde",         "semantiek", "andere disciplines drukken ook betekenis uit (behalve fonetiek)"
+  ) |>
+  gt::gt() |>
+  gt::tab_options(
+    table.font.size = "xx-large", # make text much bigger
+    table.width = gt::pct(95)     # make table fill 95% of slide width
+  )
+
+```
+
+:::
+
+
+## Verschuivend belang van context
+
+* Decontextualisering
+  * structuurbeschrijving wordt losgemaakt van de context (structuralisme, descriptieve taalkunde)
+  * evolutie naar grammatica als autonoom systeem (generatieve grammatica)
+* Recontextualisering
+  * grammatica kan niet worden afgezonderd van zijn gebruikscontext
+  * taal vervult ook een maatschappelijke rol
+
+## Tegenstellingen
+
+De verschillende kijk op context ligt ten grondslag aan een hele reeks tegenstellingen:
+
+::: columns
+::: {.column width="50%"}
+
+[decontextualiserend]{.alert2}
+
+* systeemgebaseerd
+* formeel 
+* universeel
+* aangeboren
+* homogeen
+* deterministisch
+* introspectief
+
+:::
+
+::: {.column width="50%"}
+
+[recontextualiserend]{.alert2}
+
+* gebruiksgebaseerd
+* functioneel 
+* taalspecifiek
+* verworven
+* variationistisch
+* probabilistisch
+* experimenteel
+
+:::
+:::
+
+::: {.fragment}
+
+Prof. Lahousse zal de decontextualiserende kant voorstellen; Prof. Szmrecsanyi de recontextualiserende kant.
+
+:::
+
+
+
+## Tot over 6 weken
 
