@@ -118,6 +118,10 @@ Benedikt Szmrecsanyi
 * Semantiek: 3 colleges (Thomas)
 * Pragmatiek: 2 colleges (Thomas)
 
+## Talk
+
+![[https://tinyurl.com/4wdkhjfr](https://tinyurl.com/4wdkhjfr){target="_blank"}](inputfiles/britain.png)
+
 # Een korte geschiedenis van de taalkunde als discipline
 
 
@@ -299,14 +303,13 @@ Speculatieve grammatica's en vergelijkende taalkunde
 
 ## Vergelijkende taalkunde (18de-19de eeuw)
 
-Interesse in cognaten en taalverwantschap leidt tot inzichten als de [Wet van Grimm]{.alert2}.
-  * Voornamelijk de groep van [neogrammatici]{.alert2} ([Junggrammatiker]{.alert2}) wordt geassocieerd met het ontdekken van deze klankwetten.
+Interesse in cognaten en taalverwantschap leidt tot inzichten als de [Wet van Grimm]{.alert2}. Voornamelijk de groep van [neogrammatici]{.alert2} ([Junggrammatiker]{.alert2}) wordt geassocieerd met het ontdekken van deze klankwetten.
 
 ```{dot}
 digraph {
   rankdir=TB;
 
-  Z [ label = "PIE bh dh g" ]
+  Z [ label = "PIE bh dh gh" ]
   K [label="OGM v ð ɣ"]
   Y [label="PIE p t k"]
   L [label = "OGM f θ χ"]
@@ -394,7 +397,9 @@ graph {
 
 :::
 
+## Stamboommodel
 
+![](inputfiles/languagetree.webp)
 
 
 
@@ -403,7 +408,7 @@ graph {
 * Er kwam ook kritiek op het stamboommodel.
 * Johannes Schmidt: in plaats van een enkele vooroudertaal, een dialectcontinuüm
 * Verklaart bv. waarom de tweede Germaanse klankverschuiving maar in bepaalde delen van de woordschat in verschillende dialecten voorkwamen.
-* We zien de na-effecten in isoglossen.
+* We zien de na-effecten in [isoglossen.]{.alert2}
 
 ::: {.fragment}
 ![(François 2014)](inputfiles/wavetheory.png)
@@ -446,7 +451,7 @@ door de andere tekens binnen de taalstructuur
 
 * Studie van inheemse Amerikaanse talen, met nadruk op de verschillen
 * Linguïstische relativiteit: grammaticale systemen en taalgebruik beïnvloeden de perceptie
-* Kernidee: taal is beschrijving
+* Kernidee: [taal is beschrijving]{.alert2}
 
 :::
 
@@ -498,8 +503,8 @@ door de andere tekens binnen de taalstructuur
 * Verschillende evoluties
   * Transformational Grammar (1950-1965): deep structures, surface realizations
   * Standard Theory (en de Extended Standard Theory) (1965-1980): rol semantiek in het model
-  * Government and Binding Theory (1980-1985): taal bestaat uit modules (X-bar, Case, Theta)
-  * Principles and Parameters (1985-1995): universele principes, taalspecifieke parameters
+  * [Government and Binding]{.alert2} Theory (1980-1985): taal bestaat uit modules (X-bar, Case, Theta)
+  * [Principles and Parameters]{.alert2} (1985-1995): universele principes, taalspecifieke parameters
   * Minimialist Program (1995-nu): architectuur taal zo klein mogelijk, (phase theory)
 
 
@@ -515,7 +520,7 @@ door de andere tekens binnen de taalstructuur
   * in zijn gebruikscontext
   * in de algemene cognitieve capaciteiten van de mens
 * Systemic functional linguistics (Michael Halliday)
-* Cognitive linguistics (George Lakoff, Eleanor Rosch)
+* [Cognitive linguistics]{.alert2} (George Lakoff, Eleanor Rosch)
 
 
 
@@ -573,7 +578,7 @@ door de andere tekens binnen de taalstructuur
     * STEM zou uitgebreid kunnen worden tot MELTS
 * Methodologische uitbreiding
   * t-test, ANOVA
-  * Regressieanalyses
+  * [Regressieanalyses]{.alert2}
   * Bayesiaans modelleren
   
 
@@ -627,6 +632,7 @@ door de andere tekens binnen de taalstructuur
   * EEG (elektro-encefalografie), ERP (event-related potentials)
   * eye-trackers
   * reactietijden
+  * [N400 en P600]{.alert2}
 
 :::
 
@@ -671,7 +677,7 @@ door de andere tekens binnen de taalstructuur
 
 * Sterke vooruitgang op het vlak van kunstmatige intelligentie, zeker met betrekking tot taalverwerking
   * Recente modellen voor taalverwerking gebaseerd op wiskundige representaties
-  * Huidige state of the art: taalverwerking met neurale netwerken
+  * Huidige state of the art: taalverwerking met [neurale netwerken]{.alert2}
 * Rol van taalkunde:
   * Steeds minder expliciete linguïstische kennis in computationele taalmodellen
   * Is linguïstische kennis impliciet aanwezig, en kunnen we daar iets uit leren voor de linguïstiek in het algemeen?
