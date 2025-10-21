@@ -15,7 +15,7 @@ format:
 #   url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
 author:
   - name: Dr. Thomas Van Hoey
-    orcid: 0000-0002-5226-9752
+    # orcid: 0000-0002-5226-9752
     email: thomas.vanhoey@kuleuven.be
     # affiliation:
     #   - name: QLVL @ KU Leuven
