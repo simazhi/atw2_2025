@@ -427,3 +427,35 @@ blockquote {
     pointer-events: none;
   }
 }
+
+
+/* Scope styles to only those dl inside .desc blocks */
+.desc dl {
+  display: grid;
+  /* Pick ONE of the next two lines, depending on what you want: */
+
+  /* A) Auto width based on the longest term (dynamic “tab”): */
+  grid-template-columns: max-content 1fr;
+
+  /* B) Fixed tab stop (e.g., 14ch is roughly 14 characters wide): */
+  /* grid-template-columns: 14ch 1fr; */
+
+  column-gap: 1rem;   /* space between term and definition */
+  row-gap: .25rem;    /* vertical spacing between rows */
+  margin: 0;
+}
+
+.desc dt {
+  grid-column: 1;
+  font-weight: 700;
+  margin: 0;
+  /* Optional: keep terms on one line */
+  /* white-space: nowrap; */
+}
+
+.desc dd {
+  grid-column: 2;
+  margin: 0;          /* remove default indent */
+}
+
+
