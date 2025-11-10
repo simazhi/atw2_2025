@@ -177,20 +177,22 @@ Basisonderscheid: conventioneel vs. niet-conventioneel
 
 
 *  [Structuralistische semantiek]{.alert2} (10/11)
-    *  Semantiek & structuur
     *  Lexicale semantiek (woordbetekenis)
     *  Componentiële analyse
-*  [Formele semantiek]{.alert2} (17/11)
-    *  Focus op referentiële betekenis
+*  [Formele semantiek en pragmatiek]{.alert2} (17/11)
     *  Grammaticale semantiek (zinsbetekenis)
     *  Logica
-*  [Cognitief-functionele semantiek]{.alert2} (24/11)
+    *  Pragmatiek + sociolinguïstiek
+*  [Sociolinguïstiek en Cognitief-functionele semantiek]{.alert2} (24/11)
     *  Focus op conceptuele betekenis
-    *  Metonymie en metaforen
-    *  Corpusanalyse
-*  [Computationele semantiek]{.alert2} (1/12)
-*  [Pragmatiek]{.alert2} (8/12)
-*  [Pragmatiek + openstaande vragen]{.alert2} (15/12)
+    *  Semantische extensies: metafoor en metonymie
+*  [Computationele semantiek]{.alert2} (1/12) [Tim Van De Cruys]
+*  [Cognitief-functionele semantiek]{.alert2} (8/12) 
+    * Pragmatiektalk: Line Winkelmans over *allez*
+    * Aspect
+*  [Afsluiter + openstaande vragen]{.alert2} (15/12) 
+    * Pragmatiektalk: Kaat De Gueldre over taalbeleid
+    * Afsluiter + vragen
 
 ## Voor wie meer wil
 
