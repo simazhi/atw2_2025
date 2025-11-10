@@ -72,7 +72,7 @@ Semantiek en pragmatiek bestuderen beide de **interpretatie** van taaltekens
 library(glossr)
 
 as_gloss(
-  "A. Het oud ben jij?"
+  "A. Hoe oud ben jij?"
 )
 
 as_gloss(
