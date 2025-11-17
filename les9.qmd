@@ -368,7 +368,7 @@ Introductie van een semantische component in de grammatica (bovenop de syntactis
 
 ::: columns
 ::: {.column width="50%"}
-[Dieptestructuur] (D Structure){.alert2}
+[Dieptestructuur (D Structure)]{.alert2}
 
 * gegenereerd op basis van herschrijfregels
 *  door transformatieregels omgezet in oppervlaktestructuur
@@ -402,6 +402,8 @@ De introductie van transformaties leidt tot twee discussies:
 * Zijn transformaties überhaupt nodig in een formele grammatica?
 * Zijn transformaties betekenisbehoudend? En meer algemeen: wat is de rol van betekenis in de grammatica?
 
+## Transformaties: een splijtzwam
+
 ::: columns
 ::: {.column width="80%"}
 Eerste antwoord geformuleerd door Jerrold [Katz]{.alert2} en Jerry [Fodor]{.alert2}:
@@ -427,7 +429,7 @@ Op dat punt ontwikkelen zich twee verschillende theorieën
 
 1. Generatieve semantiek (Ross, Postal, McCawley, Lakoff):
 
-* Hypothese van Katz-Postal wordt doorgedreven tot het uiterste
+* Hypothese van Katz-Fodor wordt doorgedreven tot het uiterste
 * Als transformaties betekenisbehoudend zijn, en de semantische component grijpt aan op de dieptestructuur, dan is die dieptestructuur eigenlijk gelijk aan de betekenis
 
 2. Interpretatieve semantiek (Chomsky)
@@ -519,7 +521,7 @@ V =
 
 ::: columns
 ::: {.column width="80%"}
-* Strijd tussen Generative Semanticist en Interpretative Semanticists
+* Strijd tussen Generative Semanticists en Interpretative Semanticists
 
 Discussiepunten
 
@@ -736,10 +738,10 @@ Stap 1. Definiëren van een [ontologisch lexicon]{.alert2}, bestaande uit
     * eigennamen (Kim, Jan, ...): NP
     * naamwoorden (appel, stoel, ...): N
 * Functiecategorieën
-    * lidwoorden (de, het): NP/N
-    * adjectieven (grote, rode, ...): N/N
-    * intransitieve werkwoorden (slapen, lachen, ...): NP\S
-    * transitieve werkwoorden (eten, duwen, ...): (NP\S)/NP
+    * lidwoorden (de, het): `NP/N`
+    * adjectieven (grote, rode, ...): `N/N`
+    * intransitieve werkwoorden (slapen, lachen, ...): `NP\S`
+    * transitieve werkwoorden (eten, duwen, ...): `(NP\S)/NP`
 
 :::
 
@@ -747,10 +749,10 @@ Stap 1. Definiëren van een [ontologisch lexicon]{.alert2}, bestaande uit
 
 Stap 2. Opbouwen syntactische constituenten door functie-applicatie
 
-* Voorwaarts: B/A
+* Voorwaarts: `B/A`
     * een constituent die B wordt wanneer die *rechts* door een constituent A gevolgd wordt
 
-* Achterwaarts: A\B
+* Achterwaarts: `A\B`
     * een constituent die B wordt wanneer die *links* door een constituent A voorafgegaan wordt
 
 
@@ -1038,7 +1040,7 @@ Drie hoofdbenaderingen
   
 (@) *Jan heeft al drie verschillende banen gehad.*
 
-$\rightarrow$ impliceert niet maar dan drie  
+$\rightarrow$ impliceert niet meer dan drie  
 maar merk op: de implicatie is opzegbaar:  *Hij heeft er al vier gehad, om precies te zijn.*
 
 
